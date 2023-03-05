@@ -27,11 +27,14 @@ button {
     font-size: 48px;
     border-radius: 30px;
     cursor: pointer;
-
 }
 
 .resultContainer {
     font-size: 2rem;
     text-align: center;
     margin-top: 20px;
+}
+
+#endGameButton{
+    margin: 20px 0px 0px 0px;
 }
